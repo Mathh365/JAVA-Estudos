@@ -1,2 +1,2 @@
-# Exercicios basicos envolvendo comparadores e operações basicas
+# Exercicios basicos passados pelo professor na primeira aula envolvendo comparadores e operações basicas
 

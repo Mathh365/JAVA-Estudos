@@ -21,9 +21,9 @@ Este repositório é uma coletânea de pequenos códigos, exercícios de sala, t
 
 ##  Objetivo
 
-O foco deste repositório é **mostrar minha evolução como programador**. Cada diretório representa um passo nessa jornada.  
-Seja um algoritmo simples ou uma mini aplicação, tudo aqui reflete o aprendizado em tempo real e a vontade constante de criar.
-Des de os meus primeiros passos, des de os meus primeiros dias, quando ainda estava engatinhando em direção a este universo de criação.
+O foco deste repositório é **mostrar minha evolução como programador**, cada diretório representa um passo nessa jornada.  
+Seja um algoritmo simples ou uma mini aplicação, tudo aqui reflete o aprendizado em tempo real e a vontade constante de criar.  
+Desde os meus primeiros códigos, ainda tateando os conceitos básicos, até os momentos em que comecei a entender de verdade o poder de transformar ideias em lógica.  
 
 > “Não existe linha de chegada quando o assunto é aprender.”
 

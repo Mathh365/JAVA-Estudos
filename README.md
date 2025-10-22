@@ -8,6 +8,14 @@ Este repositório é uma coletânea de pequenos códigos, exercícios de sala, t
 
 ---
 
+##  Sobre mim
+
+Sou o **Matheus, tambem conhecido como "MIr4aii" pela internet**. Estudante de **programação**. Curioso por natureza e apaixonado por transformar ideias em código.  
+Cada commit é parte da minha história de aprendizado, e este repositório é meu diário de bordo digital.
+
+> “Não programo pra impressionar — programo pra entender.”
+---
+
 ##  O que você vai encontrar por aqui
 
 -  **Exercícios práticos**, feitos durante as aulas  
@@ -35,15 +43,6 @@ Desde os meus primeiros códigos, ainda tateando os conceitos básicos, até os 
 - **Lógica de Programação** e pensamento computacional  
 - **Estruturas de dados**, **funções**, **loops** e **tratamento de exceções**  
 - **Testes de automação e experimentos com IA** em fases de estudo  
-
----
-
-##  Sobre mim
-
-Sou o **Matheus, tambem conhecido como "MIr4aii" pela internet**, estudante de **programação e design**. Curioso por natureza e apaixonado por transformar ideias em código.  
-Cada commit é parte da minha história de aprendizado, e este repositório é meu diário de bordo digital.
-
-> “Não programo pra impressionar — programo pra entender.”
 
 ---
 

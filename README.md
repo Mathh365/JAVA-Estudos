@@ -4,7 +4,7 @@
 > Alguns viram projetos, outros só deixam um log na memória.”  
 
 Seja bem-vindo ao meu espaço de experimentos!  
-Este repositório é uma coletânea de pequenos projetos, exercícios de sala, tarefas de casa e testes aleatórios que fui criando enquanto explorava o universo da programação.
+Este repositório é uma coletânea de pequenos códigos, exercícios de sala, tarefas de casa e testes aleatórios que fui criando enquanto explorava o universo da programação.
 
 ---
 
